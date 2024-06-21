@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4687e0d78f84d4eab6f018644b22dca, type: 3}
+  m_Name: SilverProducer
+  m_EditorClassIdentifier: 
+  _name: Silver Producer
+  _description: Makes silver coins
+  _icon: {fileID: 21300000, guid: 3b4faaae4c7fcb041bcb08f095a932ce, type: 3}
+  _productionResource: {fileID: 11400000, guid: 21773d8f646ecb14c9a4ef7eb2a6d135, type: 2}
+  _costResource: {fileID: 11400000, guid: 2309be1fd16965c48a1758c38ebf6517, type: 2}
+  _baseProduction: 3
+  _baseCost: 25
+  _baseDelay: 3
+  isUnlockedByDefault: 0

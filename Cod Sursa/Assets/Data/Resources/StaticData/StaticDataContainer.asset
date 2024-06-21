@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691d3602c8aa4cc48528a6b7ff7949d2, type: 3}
+  m_Name: StaticDataContainer
+  m_EditorClassIdentifier: 
+  ResourcesDataContainer:
+    ResourceDataArray:
+    - {fileID: 11400000, guid: 87cdea9d29b0066408fa5e6d74df1078, type: 2}
+    - {fileID: 11400000, guid: f88a85f3edf99fd4a96ff0881e90e817, type: 2}
+    - {fileID: 11400000, guid: 2309be1fd16965c48a1758c38ebf6517, type: 2}
+    - {fileID: 11400000, guid: 21773d8f646ecb14c9a4ef7eb2a6d135, type: 2}
+    - {fileID: 11400000, guid: 7dcc089399a282d4ab891b960fba5960, type: 2}
+    - {fileID: 11400000, guid: 5c72436c5d2b3544d9ed3570e72657de, type: 2}
+    - {fileID: 11400000, guid: 9848321731c798c4198bd47a94d286ca, type: 2}
+    - {fileID: 11400000, guid: ef8bc56e15a9dae47bd39e5cb9e89b9b, type: 2}
+  GeneratorsDataContainer:
+    GeneratorDataArray:
+    - {fileID: 11400000, guid: 71154b44055324648b8cb1717d92c406, type: 2}
+    - {fileID: 11400000, guid: 048f82131965c8240be1219e5be166fd, type: 2}
+    - {fileID: 11400000, guid: e8d1d24bbed42bb4e990e757408de04a, type: 2}
+    - {fileID: 11400000, guid: 1a36a42ecc0bca442840dc4883441be8, type: 2}
+    - {fileID: 11400000, guid: 7849bfac16c21a04fb318295813c255e, type: 2}
+    - {fileID: 11400000, guid: c1dee109c88566d4c99ad938f90afeb1, type: 2}
+    - {fileID: 11400000, guid: bbcb76ee394c76a42af89249a447a007, type: 2}
+    - {fileID: 11400000, guid: 4223c2537b6947e4585c5b8c18b72d98, type: 2}
+  ManagersDataContainer:
+    ManagerDataArray:
+    - {fileID: 11400000, guid: e2dce9cf2b9182046acd87d1eaf6fee4, type: 2}
+    - {fileID: 11400000, guid: d116468e46e013c4284f4f33e1667a16, type: 2}
+    - {fileID: 11400000, guid: 44ea3db48ec6ec240b3179d6bb82bfb3, type: 2}
+    - {fileID: 11400000, guid: 3c1cb18a4ecaac14ab7201f8831afc88, type: 2}
+    - {fileID: 11400000, guid: 1a6a1f17ec2e8a14eb5f9adcb1ae6258, type: 2}
+    - {fileID: 11400000, guid: f0cf4afdb5f0681418902d2f1a2fa6d7, type: 2}
+    - {fileID: 11400000, guid: 2fb8dd6ea97cb3a439249d35957d6c36, type: 2}
+    - {fileID: 11400000, guid: f7509858473cc724b92b07ad21ac85c0, type: 2}
+  UIData:
+    UIPreset: {fileID: 5638931598197972745, guid: 92f7c21d635a99f49ad9af820d28cf49, type: 3}

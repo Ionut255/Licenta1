@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc155ddd1a134ffc893a6afda0a51690, type: 3}
+  m_Name: SilverCoinManager
+  m_EditorClassIdentifier: 
+  _name: Silver Coin Manager
+  _description: Automates the making of silver coins
+  _icon: {fileID: 21300000, guid: 9fdc0f82ca470134f84e2d01b88fb013, type: 3}
+  GeneratorData: {fileID: 11400000, guid: 1a36a42ecc0bca442840dc4883441be8, type: 2}
+  CostResource: {fileID: 11400000, guid: 2309be1fd16965c48a1758c38ebf6517, type: 2}
+  CostValue: 1000

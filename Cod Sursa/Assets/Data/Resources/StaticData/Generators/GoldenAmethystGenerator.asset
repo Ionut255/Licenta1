@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4687e0d78f84d4eab6f018644b22dca, type: 3}
+  m_Name: GoldenAmethystGenerator
+  m_EditorClassIdentifier: 
+  _name: GoldenAmethystGenerator
+  _description: Un generator de GoldenAmethyst
+  _icon: {fileID: 21300002, guid: 610ddc6df238c184b8d6f40916a913c0, type: 3}
+  _productionResource: {fileID: 11400000, guid: 5c72436c5d2b3544d9ed3570e72657de, type: 2}
+  _costResource: {fileID: 11400000, guid: 7dcc089399a282d4ab891b960fba5960, type: 2}
+  _baseProduction: 3
+  _baseCost: 250
+  _baseDelay: 4
+  isUnlockedByDefault: 0
